@@ -4,7 +4,6 @@
 <img src="https://i.imgur.com/foW0zFk.png">
 
 <br>
-<h4 align='center'>Generador de Contraseñas, hecha en Python y pensado para Linux</h4> 
 <br>
 <div align='center'>
   <br>
@@ -15,6 +14,12 @@
   </div>
 <br>
 
+* Generador de Contraseñas
+* Genera contraseñas para todas las plataformas
+* Ejecucion pensada para Linux
+* Facil de usar
+
+<br>
 ## Instalación: 
 
 ```bash
