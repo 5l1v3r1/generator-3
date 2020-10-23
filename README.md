@@ -6,9 +6,11 @@
 <br>
 <h4 align='center'>Generador de Contraseñas, hecha en Python y pensado para Linux</h4> 
 <br>
-<p>by Osososo</p>
+<p align='center'>by Osososo</p>
 <br>
-#INSTALACION:
+<h3 align='center'>#INSTALACION:</h3>
+<div align='center'>
 >cd generator
 
 >sudo python3 generator.py
+</div>
