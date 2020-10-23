@@ -7,7 +7,7 @@
 <h4 align='center'>Generador de Contraseñas, hecha en Python y pensado para Linux</h4> 
 <br>
 <div align='center'>
-  <img src="https://i.imgur.com/0HctexI.png">
+  <img src="https://i.imgur.com/0HctexI.png" width="100" height="100" >
   </div>
 <br>
 <h3 align='center'>#INSTALACION:</h3>
