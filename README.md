@@ -1,11 +1,13 @@
-# Generator
+<div align='center'># Generator</div>
 <br>
 
 <img src="https://i.imgur.com/foW0zFk.png">
 
 <br>
-Generador de Contraseñas, hecha en Python y pensado para Linux 
-by Osososo
+<h4 align='center'>Generador de Contraseñas, hecha en Python y pensado para Linux</h4> 
+<br>
+<p>by Osososo</p>
+<br>
 #INSTALACION:
 >cd generator
 
