@@ -37,5 +37,6 @@ $ sudo python3 generator.py
 <br>
 
 ## Screenshot:
-
+<div align='center'>
 <img src="https://i.imgur.com/129eh0y.png">
+</div>
