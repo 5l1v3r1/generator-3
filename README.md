@@ -8,7 +8,10 @@
 <br>
 <div align='center'>
   <img src="https://i.imgur.com/0HctexI.png"><a href="">
+  <br>
   <img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"></a>
+  <br>
+  <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-yellow?style=for-the-badge&logo=python"></a>
   </div>
 <br>
 <h3 align='center'>#INSTALACION:</h3>
