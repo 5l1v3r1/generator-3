@@ -9,8 +9,10 @@
 <p align='center'>by Osososo</p>
 <br>
 <h3 align='center'>#INSTALACION:</h3>
+<br>
 <div align='center'>
+  
 >cd generator
-
 >sudo python3 generator.py
+  
 </div>
