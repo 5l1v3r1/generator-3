@@ -16,6 +16,8 @@
   </div>
 <br>
 
+## Datos:
+
 * Generador de Contraseñas
 * Genera contraseñas para todas las plataformas
 * Ejecucion pensada para Linux
