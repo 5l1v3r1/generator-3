@@ -7,7 +7,7 @@
 <h4 align='center'>Generador de Contraseñas, hecha en Python y pensado para Linux</h4> 
 <br>
 <div align='center'>
-  <img src="https://i.imgur.com/0HctexI.png" width="500" height="50" >
+  <img src="https://i.imgur.com/0HctexI.png" width="500" height="50" ><a href=""><img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"></a>
   </div>
 <br>
 <h3 align='center'>#INSTALACION:</h3>
