@@ -1,4 +1,4 @@
-<div align='center'># Generator</div>
+<div align='center'><h2># Generator</h2></div>
 <br>
 
 <img src="https://i.imgur.com/foW0zFk.png">
