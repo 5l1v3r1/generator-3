@@ -44,7 +44,7 @@ $ git clone https: https://github.com/oscarsanchezt/generator
 # Entre al repositorio
 $ cd generator
 
-# Inicie KitHack
+# Inicie generator
 $ sudo python3 generator.py
 ```
 <br>
