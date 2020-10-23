@@ -32,4 +32,8 @@ $ cd generator
 
 # Inicie KitHack
 $ sudo python3 generator.py
-
+```
+<br>
+<br>
+## Captura
+<img src="https://i.imgur.com/129eh0y.png">
