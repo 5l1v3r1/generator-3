@@ -14,11 +14,22 @@
   <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-yellow?style=for-the-badge&logo=python"></a>
   </div>
 <br>
-<h3 align='center'>#INSTALACION:</h3>
-<br>
-<div align='center'>
-  
->cd generator
->sudo python3 generator.py
-  
-</div>
+
+## Instalación: 
+
+```bash
+# Actualice su lista de paquetes
+$ sudo apt update
+
+# Instale python3 y python3-pip
+$ sudo apt install python3 python3-pip
+
+# Clone el repositorio 
+$ git clone https: https://github.com/oscarsanchezt/generator
+
+# Entre al repositorio
+$ cd generator
+
+# Inicie KitHack
+$ sudo python3 generator.py
+
