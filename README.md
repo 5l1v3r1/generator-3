@@ -35,5 +35,7 @@ $ sudo python3 generator.py
 ```
 <br>
 <br>
-## Captura
+
+## Screenshot:
+
 <img src="https://i.imgur.com/129eh0y.png">
