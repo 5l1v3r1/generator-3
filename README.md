@@ -11,7 +11,7 @@
   <img src="https://i.imgur.com/hIFyaeC.png">
   <img title="System" src="https://img.shields.io/badge/Supported%20OS-Linux-orange?style=for-the-badge&logo=linux"></a>
   <br>
-  <img src="">
+  <img src="https://i.imgur.com/ghQqxr4.png">
   <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-yellow?style=for-the-badge&logo=python"></a>
   </div>
 <br>
