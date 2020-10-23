@@ -25,6 +25,7 @@
 * Genera contraseñas para todas las plataformas
 * Ejecucion pensada para Linux
 * Facil de usar
+* No hay limite de Longitud de Password
 
 <br>
 
